@@ -10,7 +10,7 @@ Este curso tiene como objetivo principal proporcionar un conocimiento general de
 
 ## Duración
 
-El curso tiene una duración de 2 semanas, divididas de la siguiente manera:
+El curso tiene una duración de 3 semanas, divididas de la siguiente manera:
 
 * Semana 1: lectura, estudio de los contenidos y realización de actividades autoevaluativas
 * Semana 2: realización de la práctica 1
